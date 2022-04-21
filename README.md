@@ -1,5 +1,5 @@
 # Lin Lab Sleap Extension, TDT circuits and Matlab Code
- TDT Circuit and Matlab code used for analyzing data in the Fig6 of the paper "New and improved GRAB fluorescent sensors for monitoring dopaminergic activity in vivo"
+ TDT Circuit and Matlab code used for analyzing data
 
 In the Sleap Extension:
 SLPtool.py: To assign identiftity of each mouse
@@ -7,7 +7,6 @@ Instructions_for_SLPtool: It is a user guide of the SLPtool
 
 In folder TDT Circuits:
 lockin2_RZ5: To perform bilateral recording
-lockin_dualColor_RZ5: To perform dual color recording from the same site
 
 In folder Matlab Code:
 Extraction_dual_with_videos: To extract the data from TDT Tank
