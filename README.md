@@ -1,22 +1,34 @@
 # Lin Lab Sleap Extension, TDT circuits and Matlab Code
+<<<<<<< HEAD
  Sleap extension is for identity correction after tracking. TDT Circuit is for fiber photometry recording and optogenetic stimulation. Matlab code is used for analyzing data.
+=======
+ TDT Circuit, Sleap extension, and Matlab code used for analyzing data
+>>>>>>> 5487a39cfac80cec9fb6639b4058a394a4e02ce1
 
 In the Sleap Extension:
 SLPtool.py: To assign identiftity of each mouse
 Instructions_for_SLPtool: It is a user guide of the SLPtool.
 
 In folder TDT Circuits:
+<<<<<<< HEAD
 lockin2_RZ5: To perform bilateral recording
 lockin_ChR2: To perform optogenetic stimulation
+=======
+lockin2_withFS_RZ5: To perform bilateral recording
+lockin_ChR2: To perform unilateral/bilateral stimulation
+>>>>>>> 5487a39cfac80cec9fb6639b4058a394a4e02ce1
 
 In folder Matlab Code:
 Extraction_dual_with_videos: To extract the data from TDT Tank.
 FPanalysis_overall: To plot the DA signals with behaviors from individual animal
 PSTH_all_raw: To plot the average PSTH from all the animals
 timeShiftCorrlation: To calculate the correlation coefficients betweem 2 curves and calculate the average correlation curve from all animals
+<<<<<<< HEAD
 dFMean: To calculate the averaged DA signals during indicated behaviors.
 
 
+=======
+dFMean: To calculate the averaged Z-scored dFF during each event
+>>>>>>> 5487a39cfac80cec9fb6639b4058a394a4e02ce1
 
-Please contact either Bing Dai (Bing.Dai@nyulangone.org) or Dayu Lin (Dayu.Lin@nyulangone.org)
-
+Please contact either Bing Dai (Bing.Dai@nyulangone.org) or Dayu Lin (Dayu.Lin@nyulangone.org) for any further assistance
