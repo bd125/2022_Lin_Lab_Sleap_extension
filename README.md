@@ -25,5 +25,5 @@ In folder Matlab Code:
 
 
 
-Please contact either Bing Dai (Bing.Dai@nyulangone.org) or Dayu Lin (Dayu.Lin@nyulangone.org)
+Please contact either Bing Dai (Bing.Dai@nyulangone.org or bd1409@nyu.edu) or Dayu Lin (Dayu.Lin@nyulangone.org)
 
